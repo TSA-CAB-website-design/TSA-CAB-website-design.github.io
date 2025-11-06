@@ -1,0 +1,17 @@
+body{
+    h1{
+        font-size: 72px;
+    }
+    p{
+        font-size: 25px;
+    }
+    div{
+        border: 6px antiquewhite;
+        border-width: 6px;
+    }
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+    margin-left: 25%;
+    margin-right: 25%;
+}

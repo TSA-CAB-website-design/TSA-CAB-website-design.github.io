@@ -10,6 +10,8 @@ body{
         margin-left: 0px;
         margin-right: 0px;
         padding: 20px;
+        width: 100vw;
+        -ms-transform-origin-x: 50vw;
     }
     iframe{
         width:100%;

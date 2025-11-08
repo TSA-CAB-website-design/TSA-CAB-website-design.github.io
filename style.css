@@ -10,9 +10,9 @@ body{
         border-width: 6px;
     }
     iframe{
-        width="50%"height="40%"
+        width:"100%"height="40%";
     }
-    background-color: black;
+    background-color: antiquewhite;
     font-family: 'Courier New', Courier, monospace;
     color: antiquewhite;
     margin-left: 25%;

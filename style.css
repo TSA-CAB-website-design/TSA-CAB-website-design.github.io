@@ -10,8 +10,12 @@ body{
     }
     iframe{
         width:100%;
-        height: 35%;
-        border-radius: 8px;
+        height: 4%;
+        border-radius: 16px;
+    }
+    .middlelabel{
+        text-align: center;
+        font-weight: lighter;
     }
     background-color: white;
     font-family: 'Courier New', Courier, monospace;

@@ -11,7 +11,6 @@ body{
         margin-right: 0px;
         padding: 20px;
         width: 100vw;
-        -ms-transform-origin-x: 50vw;
     }
     iframe{
         width:100%;
@@ -37,6 +36,4 @@ body{
     background-color: cadetblue;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    margin-left: 25%;
-    margin-right: 25%;
 }

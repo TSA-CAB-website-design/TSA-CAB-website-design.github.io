@@ -7,11 +7,11 @@ body{
     }
     div{
         border: 6px antiquewhite;
-        border-width: 6px;
     }
     iframe{
         width:100%;
         height: 100%;
+        border-radius: 8px;
     }
     background-color: antiquewhite;
     font-family: 'Courier New', Courier, monospace;

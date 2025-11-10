@@ -42,10 +42,11 @@ body{
         background-color: grey;
     }
     a{
-        color: cadetblue;
+        color: white;
     }
     a:hover{
         color: chartreuse;
+        cursor: progress;
     }
     background-color: cadetblue;
     font-family: sans-serif;

@@ -31,7 +31,7 @@ body{
         padding: 0px;
         box-sizing: border-box;
         align-self: left;
-    footer{
+    .footer{
         align-items: center;
         align-self: center;
         width: 50%;

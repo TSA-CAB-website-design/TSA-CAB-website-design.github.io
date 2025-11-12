@@ -31,7 +31,7 @@ body{
         padding: 0px;
         box-sizing: border-box;
         align-self: left;
-        pointer: default;
+        cursor: default;
     }
     footer{
         align-items: center;

@@ -7,10 +7,10 @@ body{
     }
     div{
         background-color: white;
-        padding-left: 25%;
-        padding-right: 25%;
+        padding: 0px 25%;
         width: 50%;
         min-height: 100%;
+        cursor: default;
     }
     iframe{
         width:100%;
@@ -45,7 +45,7 @@ body{
     }
     a:hover{
         color: chartreuse;
-        cursor: progress;
+        cursor: pointer;
     }
     background-color: cadetblue;
     font-family: sans-serif;

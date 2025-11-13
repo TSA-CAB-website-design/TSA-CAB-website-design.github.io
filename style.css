@@ -22,6 +22,9 @@ body{
         font-weight: lighter;
         align-items: center;
     }
+    .nav{
+        align-self: right;
+    }
     header{
         text-align: left;
         color: black;

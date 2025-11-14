@@ -83,4 +83,5 @@ a:hover {
 .full-width-img{
     width: 50%;
     height: auto;
+    z-index: 100;
 }

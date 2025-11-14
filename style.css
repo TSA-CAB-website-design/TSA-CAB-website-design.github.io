@@ -37,6 +37,7 @@ iframe {
 
 .nav {
     align-self: right;
+    text-align: right;
 }
 
 header {
@@ -49,6 +50,7 @@ header {
     box-sizing: border-box;
     align-self: left;
     cursor: default;
+    display: flex;
 }
 
 footer {

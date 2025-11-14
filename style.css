@@ -15,7 +15,7 @@ p {
     font-size: 25px;
 }
 
-div {
+.main-content {
     background-color: white;
     padding: 0px 25%;
     width: 50%;
@@ -38,6 +38,12 @@ iframe {
 .nav {
     align-self: right;
     text-align: right;
+    float: right;
+    margin: 0px
+}
+
+.navlinks{
+  float: right;
 }
 
 header {
@@ -45,12 +51,14 @@ header {
     color: black;
     width: 50%;
     margin-left: 0px;
-    margin: 25px 25%;
+    margin: 10px 25%;
     padding: 0px;
     box-sizing: border-box;
     align-self: left;
     cursor: default;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 footer {
@@ -64,6 +72,7 @@ footer {
 
 a {
     color: white;
+    padding: 0px 10px
 }
 
 a:hover {

@@ -85,3 +85,20 @@ a:hover {
     height: auto;
     z-index: 100;
 }
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(107, 107, 107);
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background: rgb(60, 60, 60);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(4, 4, 4);
+}

@@ -42,8 +42,8 @@ iframe {
     margin: 0px
 }
 
-.navlinks{
-  float: right;
+.navlinks {
+    float: right;
 }
 
 header {
@@ -72,7 +72,7 @@ footer {
 
 a {
     color: white;
-    padding: 0px 10px
+    padding: 0px 10px;
 }
 
 a:hover {
@@ -80,7 +80,7 @@ a:hover {
     cursor: pointer;
 }
 
-.full-width-img{
+.full-width-img {
     width: 50%;
     height: auto;
     z-index: 100;

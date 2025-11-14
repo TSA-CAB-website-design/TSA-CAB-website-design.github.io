@@ -79,3 +79,8 @@ a:hover {
     color: chartreuse;
     cursor: pointer;
 }
+
+.full-width-img{
+    width:50%;
+    height: auto;
+}
